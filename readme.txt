@@ -1,15 +1,9 @@
 ################################################################################################
 
 Readme for Listings | Bootstrap 4 listing template by Bootstrap Temple 
- - https://bootstraptemple.com
 
 ################################################################################################
 
-Hi,
-
-thank you for downloading. Have fun and tell your friends about us ;)
-
-Ondrej, Bootstrap Temple
 
 ---------------------
  CSS
@@ -31,7 +25,6 @@ Apart from the Bootstrap JS components, the majority of JS is located in /js/fro
 
 - Botstrap - http://getbootstrap.com
 - Font Awesome - http://fontawesome.io/
-- more in credits.txt.
 
 ---------------------
  LICENSE CONDITIONS
@@ -47,4 +40,4 @@ Also, as a bonus for license owners, I can provide you the SASS files for even e
 
 Thank you for understanding and respecting the license conditions.
 
-If more info needed, please contact me at hello@bootstraptemple.com.
+If more info needed, please contact me at vish@drpinnacle.com
